@@ -42,21 +42,18 @@
 				
 				<div class="mb-3">
 					<label for="productQuantity" class="form-label">Product Quantity</label> 
-					<input type="number"   class="form-control" name="quantity"
-						id="productQuantity" placeholder="Enter Quantity">
+					<input type="number"   class="form-control" name="quantity" id="productQuantity" placeholder="Enter Quantity">
 				</div>
 				
 				<div class="mb-3">
 					<label for="productPrice" class="form-label">Product Price</label> 
-					<input type="number"   class="form-control" name="price"
-						id="productPrice" placeholder="Enter Price">
+					<input type="number"   class="form-control" name="price" id="productPrice" placeholder="Enter Price">
 				</div>
 				
 				
 				<div class="mb-3">
 					<label for="remarks" class="form-label">Remarks</label>
-					<textarea name="remarks" class="form-control" id="remarks"
-						rows="3"></textarea>
+					<textarea name="remarks" class="form-control" id="remarks" rows="3"></textarea>
 				</div>
 				<button type="submit" class="btn btn-primary">Save</button>
 				</form>
